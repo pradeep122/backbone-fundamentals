@@ -7,12 +7,12 @@ How to write modular JavaScript apps for desktop and mobile
 * Introduction
 
 * ####The Basics
-* Models
-* Views
-* Collections
-* Routers
-* Namespacing
-* Additional tips
+** Models
+** Views
+** Collections
+** Routers
+** Namespacing
+** Additional tips
 
 * ####Advanced
 * Modular JavaScript
